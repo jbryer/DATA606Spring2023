@@ -29,7 +29,7 @@ I am currently an Assistant Professor in Data Science and Information Systems at
       <guid>/course-overview/schedule/</guid>
       <description>Note: Schedule is subject to change. Last updated January 17, 2023 11:44AM.
 CUNY SPS Academic Calendar
- document.addEventListener(&#39;DOMContentLoaded&#39;, function() { var calendarEl = document.getElementById(&#39;calendar&#39;); var calendar = new FullCalendar.Calendar(calendarEl, { initialDate: &#39;2023-01-17&#39;, initialView: &#39;dayGridMonth&#39;, headerToolbar: { left: &#39;prev,next today&#39;, center: &#39;title&#39;, right: &#39;dayGridMonth,timeGridWeek,timeGridDay,listWeek&#39; }, height: &#39;auto&#39;, navLinks: true, // can click day/week names to navigate views editable: true, selectable: true, selectMirror: true, nowIndicator: true, events: [ { title: &#34;Chapter 1 - Intro to Data, R, and RStudio&#34;</description>
+ document.addEventListener(&#39;DOMContentLoaded&#39;, function() { var calendarEl = document.getElementById(&#39;calendar&#39;); var calendar = new FullCalendar.Calendar(calendarEl, { initialDate: &#39;2023-01-18&#39;, initialView: &#39;dayGridMonth&#39;, headerToolbar: { left: &#39;prev,next today&#39;, center: &#39;title&#39;, right: &#39;dayGridMonth,timeGridWeek,timeGridDay,listWeek&#39; }, height: &#39;auto&#39;, navLinks: true, // can click day/week names to navigate views editable: true, selectable: true, selectMirror: true, nowIndicator: true, events: [ { title: &#34;Chapter 1 - Intro to Data, R, and RStudio&#34;</description>
     </item>
     
     <item>
@@ -39,7 +39,7 @@ CUNY SPS Academic Calendar
       
       <guid>/course-overview/meetups/</guid>
       <description>There will be weekly meetups. You are encouraged to attend as many as you can but recordings will generally be available the day after the meetup.
-Join Zoom Meeting: http://zoom.data606.net or https://us02web.zoom.us/j/86462823125
+Join Zoom Meeting: http://zoom.data606.net or https://us02web.zoom.us/j/86462823125?pwd=L3RsRERFQmtRK0ZEZTNxVE5QTGZCZz09
 Please note: Students who participate in this class with their camera on or use a profile image are agreeing to have their video or image recorded solely for the purpose of creating a record for students enrolled in the class to refer to, including those enrolled students who are unable to attend live.</description>
     </item>
     
