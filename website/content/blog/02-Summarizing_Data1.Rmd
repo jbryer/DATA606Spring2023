@@ -1,0 +1,24 @@
+---
+title: "Summarizing Data Part 1"
+author: "Jason Bryer and Angela Lui"
+date: 2023-02-08
+draft: false
+categories: ["Meetups"]
+tags: ["Annoucement"]
+---
+
+
+[Click here](/slides/02-Summarizing_Data1.html#1) to open the slides ([PDF](/slides/02-Summarizing_Data1.pdf)).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-XEu1tAgklc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--more-->
+
+[Click here](/slides/02-Summarizing_Data1.html#1) to open the slides ([PDF](/slides/02-Summarizing_Data1.pdf)).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-XEu1tAgklc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+JJ Alaire's talk on corporations: https://www.youtube.com/watch?v=DskltmWKOVY
+lubridate R package is great if you work with dates: https://lubridate.tidyverse.org
+Mandelbrot sets in R: https://github.com/blmoore/mandelbrot (one use for the complex data type).
+
