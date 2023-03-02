@@ -1,0 +1,23 @@
+---
+title: "Distributions"
+author: "Jason Bryer and Angela Lui"
+date: 2023-03-01
+draft: false
+categories: ["Meetups"]
+tags: ["Annoucement"]
+---
+
+
+[Click here](/slides/04-Distributions.html#1) to open the slides ([PDF](/slides/04-Distributions.pdf)).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8lfNosMuAqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--more-->
+
+[Click here](/slides/04-Distributions.html#1) to open the slides ([PDF](/slides/04-Distributions.pdf)).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8lfNosMuAqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? https://dl.acm.org/doi/10.1145/3442188.3445922 <br/>
+Last Week Tonight segement on AI and ChatGPT: https://www.youtube.com/watch?v=Sqa8Zo2XWc4
+
