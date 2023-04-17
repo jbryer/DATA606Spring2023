@@ -323,7 +323,7 @@ Calculate the 95% confidence interval:
 
 $$(\bar{x}_{M} - \bar{x}_{F}) \pm 1.96 SE_{ (\bar { x } _{ M }-\bar { x } _{ F }) }$$
 $$(626.9 - 597.7) \pm 1.96 \times 1.55$$
-$$29.2 \pm 3.038 = (36.162, 42.238)$$
+$$29.2 \pm 3.038 = (2s6.162, 32.238)$$
 
 ]
 
