@@ -1,0 +1,24 @@
+---
+title: "Estimating Causality from Observational Data"
+author: "Jason Bryer and Angela Lui"
+date: 2023-04-24
+draft: false
+categories: ["Meetups"]
+tags: ["Annoucement"]
+---
+
+
+[Click here](/slides/Intro_PSA.html#1) to open the slides ([PDF](/slides/Intro_PSA.pdf)).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rq_od5KwqEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--more-->
+
+[Click here](/slides/Intro_PSA.html#1) to open the slides ([PDF](/slides/Intro_PSA.pdf)).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rq_od5KwqEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Slides: https://github.com/jbryer/psa/raw/master/Slides/Intro_PSA.pdf <br/>
+Bookdown site: https://psa.bryer.org <br/>
+Github repo: https://github.com/jbryer/psa
+
